@@ -7,7 +7,15 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Task Manager</name>
-    <description>Minimal Spring Boot Task Manager API</description>
+    <description>Task Manager API - Spring Boot project maintained by Shahk</description>
+    <url>https://github.com/Shahk/Task-Manager</url>
+    <developers>
+        <developer>
+            <id>shahk</id>
+            <name>Shahk</name>
+            <email>shahk@example.com</email>
+        </developer>
+    </developers>
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
@@ -53,4 +61,4 @@
             </plugin>
         </plugins>
     </build>
-</project> 
+</project>
